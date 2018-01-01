@@ -1,0 +1,16 @@
+git is a version control system.
+git is free software.
+
+1. 把文件添加到git仓库(repository):
+创建版本库 - 廖雪峰的官方网站  
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013743256916071d599b3aed534aaab22a0db6c4e07fd0000
+
+文本编辑器的选择: 强烈建议不要用notepad, 用notepad2.exe就行.
+文本都是有编码的, 强烈建议把编辑器的默认编码设置为: utf-8 (utf-8 without BOM)
+
+
+1.1 用命令: git add
+git add a.txt
+
+1.2 
+$ git commit  -m  "wrote a file for testing"
